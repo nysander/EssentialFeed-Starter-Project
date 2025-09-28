@@ -1,0 +1,1 @@
+[![CI-macOS](https://github.com/nysander/EssentialFeed-Starter-Project/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/nysander/EssentialFeed-Starter-Project/actions/workflows/ci.yml)
